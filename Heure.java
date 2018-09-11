@@ -14,5 +14,13 @@ public class Heure{
 				this.minutes = minutes;
 			}
 		}
+		
+		public int getHeures(){
+			this.heures = heures;
+		}
+		
+		public int getMinutes(){
+			this.minutes = minutes;
+		}
 				
 }
